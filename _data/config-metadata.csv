@@ -22,3 +22,5 @@ format,Format,,
 rights,Rights,,
 rightsstatement,Rights Statement,,TRUE
 المكان (البلد),المكان (البلد),,
+collection,Collection,TRUE,
+المجموعة,المجموعة,TRUE,
